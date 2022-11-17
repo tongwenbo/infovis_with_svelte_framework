@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    padding: 1em;
+    align-items: center;
+    background-color: #222;
+    color: white;
+}
+
+.divider {
+    flex-grow: 1;
+}
+
+#map_container {
+    position: relative;
+}
+
+#legend {
+    position: absolute;
+    bottom: 1em;
+    right: 1em;
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    background-color: #fff4;
+    padding: 1em;
+    border-radius: 1em;
+    backdrop-filter: blur(2px)
+}
+
+#map {
+    background-color: #8ab4f8;
+}
+
+#land {
+    fill: #a8dab5;
+    stroke: #8db697;
+}
