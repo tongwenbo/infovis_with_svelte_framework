@@ -1,0 +1,24 @@
+[
+    [
+{"state": "Baden-Württemberg", "value": 87, "condition": "innercity"}, {"state": "Baden-Württemberg", "value": 217, "condition": "out of town"}, 
+{"state": "Baden-Württemberg", "value": 44, "condition": "highway"}, {"state": "Bayern", "value": 104, "condition": "innercity"}, 
+{"state": "Bayern", "value": 289, "condition": "out of town"}, {"state": "Bayern", "value": 50, "condition": "highway"}, 
+{"state": "Brandenburg", "value": 28, "condition": "innercity"}, {"state": "Brandenburg", "value": 80, "condition": "out of town"}, 
+{"state": "Brandenburg", "value": 19, "condition": "highway"}, {"state": "Hessen", "value": 41, "condition": "innercity"}, 
+{"state": "Hessen", "value": 110, "condition": "out of town"}, {"state": "Hessen", "value": 32, "condition": "highway"}, 
+{"state": "Mecklenburg-Vorpommern", "value": 13, "condition": "innercity"}, 
+{"state": "Mecklenburg-Vorpommern", "value": 48, "condition": "out of town"}, {"state": "Mecklenburg-Vorpommern", "value": 7, "condition": "highway"}, 
+{"state": "Niedersachsen", "value": 72, "condition": "innercity"}, {"state": "Niedersachsen", "value": 245, "condition": "out of town"}, 
+{"state": "Niedersachsen", "value": 33, "condition": "highway"}, {"state": "Nordrhein-Westfalen", "value": 160, "condition": "innercity"}, 
+{"state": "Nordrhein-Westfalen", "value": 209, "condition": "out of town"}, {"state": "Nordrhein-Westfalen", "value": 56, "condition": "highway"}, 
+{"state": "Rheinland-Pfalz", "value": 35, "condition": "innercity"}, {"state": "Rheinland-Pfalz", "value": 80, "condition": "out of town"}, 
+{"state": "Rheinland-Pfalz", "value": 2, "condition": "highway"}, {"state": "Saarland", "value": 12, "condition": "innercity"}, 
+{"state": "Saarland", "value": 14, "condition": "out of town"}, {"state": "Saarland", "value": 3, "condition": "highway"}, 
+{"state": "Sachsen", "value": 52, "condition": "innercity"}, {"state": "Sachsen", "value": 52, "condition": "out of town"}, 
+{"state": "Sachsen", "value": 25, "condition": "highway"}, {"state": "Sachsen-Anhalt", "value": 32, "condition": "innercity"}, 
+{"state": "Sachsen-Anhalt", "value": 61, "condition": "out of town"}, {"state": "Sachsen-Anhalt", "value": 20, "condition": "highway"}, 
+{"state": "Schleswig-Holstein", "value": 17, "condition": "innercity"}, {"state": "Schleswig-Holstein", "value": 50, "condition": "out of town"}, 
+{"state": "Schleswig-Holstein", "value": 10, "condition": "highway"}, {"state": "Thüringen", "value": 32, "condition": "innercity"}, 
+{"state": "Thüringen", "value": 42, "condition": "out of town"}, {"state": "Thüringen", "value": 13, "condition": "highway"}
+]
+]

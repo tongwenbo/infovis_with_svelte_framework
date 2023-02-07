@@ -1,0 +1,9 @@
+[
+    [
+    {"cause": "Inappropriate speed", "value": 2.41}, {"cause": "Incorrect road use", "value": 2.11}, 
+    {"cause": "Overtaking Errors", "value": 1.81}, {"cause": "Influence of alcohol", "value": 1.39}, 
+    {"cause": "Misbehavior towards pedestrians", "value": 1.05}, {"cause": "Errors when passing", "value": 0.64}, 
+    {"cause": "Ignoring right of way, priority", "value": 0.57}, {"cause": "Leaving a road, reversing, moving", "value": 0.48}, 
+    {"cause": "Insufficient distance", "value": 0.43}, {"cause": "Travelling side by side", "value": 0.34}
+    ]
+]

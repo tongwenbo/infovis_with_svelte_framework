@@ -1,0 +1,7 @@
+[
+    [
+    {"roadtype": "highway", "value": 1670}, {"roadtype": "federal highway", "value": 4747}, 
+    {"roadtype": "state road", "value": 6146}, {"roadtype": "district road", "value": 3537}, 
+    {"roadtype": "other roads", "value": 14129}
+    ]
+]
