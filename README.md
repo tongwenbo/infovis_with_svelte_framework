@@ -1,5 +1,10 @@
 # information visualization with svelte framework
 
+## Svelte
+website: https://svelte.dev/
+Svelte is a fairly new web framework for front-end developers like vue, react and angular. It has many advantages,
+especially with interactions among graphs. The event handling of svelte is very easy and efficient.
+
 ## data pre-processing
 The original data are all in ./src/assets/data.js, including the additional data I added. The source is commented.
 For data to be adapted for the input of visualization. ./data-process.py is used. Because this assignment is not focused on Python, I did not make it perfect enough to be run automatically. This is a half-automated script.
@@ -7,7 +12,7 @@ The data after processing is stored respectively in the json files under ./src/a
 
 ## ploting
 The svelte scripts for ploting are stored unter ./src/lib/. 
-# why plot lollipop twice?
+### why plot lollipop twice?
 I am preparing this data visualization as if I am presenting it in a speech. So, I arrange the plots according to the logic (see the detailed story below) of speech which I am about to give. If it is just for looking, I will plot it only once.
 
 ## app interface
