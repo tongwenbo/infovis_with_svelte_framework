@@ -1,7 +1,7 @@
 # information visualization with svelte framework
 
 ## Svelte
-website: https://svelte.dev/
+website: https://svelte.dev/ <br/>
 Svelte is a fairly new web framework for front-end developers like vue, react and angular. It has many advantages,
 especially with interactions among graphs. The event handling of svelte is very easy and efficient.
 
